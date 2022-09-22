@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning Java, JavaScript, C#, C++, Node.Js, HTML5/CSS3, SQL Server.
 - 📖 Studiyng Data Processing at Colégio Técnico de Campinas - Unicamp
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biaacoutinho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaacoutinho&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
+| [📈 Github Profile Stats](https://github.com/biaacoutinho/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/biaacoutinho/github-readme-stats#top-languages-card) |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=biaacoutinho&show_icons=true&theme=nightowl" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaacoutinho&theme=nightowl&layout=compact" /> |
 
 <div align="center">
 
