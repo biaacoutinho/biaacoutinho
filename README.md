@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Beatriz
 
-<!--
-**biaacoutinho/biaacoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java, JavaScript, C#, C++, Node.Js, HTML5/CSS3, SQL Server.
+- 📖 Studiyng Data Processing at Colégio Técnico de Campinas - Unicamp
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaacoutinho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaacoutinho&layout=compact&langs_count=7&theme=blueberry"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[<h4>Visitor's count</h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
+<img src="https://profile-counter.glitch.me/biaacoutinho/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
+
+![Snake animation](https://github.com/biaacoutinho/biaacoutinho/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
