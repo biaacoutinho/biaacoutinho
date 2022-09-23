@@ -4,7 +4,7 @@
 - 📖 Studiyng Data Processing at Colégio Técnico de Campinas - Unicamp
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/biaacoutinho?label=Follow&style=social" height="22" title="Follow me"/>
-<img align="right" alt="biaacoutinho" height="150" style="border-radius:50px;" src="[https://picrew.me/shareImg/org/202209/684058_7NjshUPC](https://picrew.me/shareImg/org/202209/197705_wVepLLcK.png).png"?width=1000&height=1000">
+<img align="right" alt="biaacoutinho" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/197705_wVepLLcK.png"?width=1000&height=1000">
 
 ## Programming Languages and Tools 
 
