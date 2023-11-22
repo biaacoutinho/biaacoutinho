@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java, JavaScript, C#, C++, Node.Js, HTML5/CSS3, SQL Server.
 - 📖 Studiyng Data Processing at Colégio Técnico de Campinas - Unicamp
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/biaacoutinho?label=Follow&style=social" height="22" title="Follow me"/>
-
 ## Programming Languages and Tools  
 
 <div style="display: inline_block"><br>
